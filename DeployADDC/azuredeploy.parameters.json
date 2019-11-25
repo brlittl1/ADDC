@@ -5,6 +5,11 @@
     "adminUsername": {
       "value": "sysadmin"
     },
+
+    "adminPassword": {
+      "value":  "02June94****"
+    },
+
     "dnsPrefix": {
       "value": "brlittl.com"
     }
